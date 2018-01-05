@@ -1,0 +1,30 @@
+{
+  "name": "coinethjs",
+  "version": "1.0.0",
+  "description": "Bip44 implementation of Ethereum on Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitclimb/coinethjs.git"
+  },
+  "keywords": [
+    "bip33",
+    "ether",
+    "wallet",
+    "ethereum"
+  ],
+  "author": "unibtc@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitclimb/coinethjs/issues"
+  },
+  "homepage": "https://github.com/Bitclimb/coinethjs#readme",
+  "dependencies": {
+    "bitcoinjs-lib": "^3.3.2",
+    "elliptic": "^6.4.0",
+    "ethereumjs-util": "^5.1.3"
+  }
+}
